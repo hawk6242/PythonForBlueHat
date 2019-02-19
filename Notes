@@ -1,0 +1,18 @@
+sudo apt install python3-pip -y
+
+python3 -m pip install --user virtulenv
+python3 -m virtualenv env
+
+source env/bin/activate
+
+nano dns-hunt.py
+
+
+***Free WiFi with DNS Tunneling***
+
+Stack Counting realted to DNS
+Entropy -Measuring randomness in strings
+
+Type "cmd","powershell" in file explorer on windows
+
+
